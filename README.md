@@ -21,16 +21,12 @@ R package `devtools` is required for metpeak to be installed from GitHub.
 ```
 install.packages("devtools")
 ```
-Some of the MeTPeak dependent packages can only be installed from BioInstaller
-
-```
-source("https://bioconductor.org/biocLite.R")
-```
-
+Some of the MeTPeak dependent packages have to be installed from BiocLite,
 At last, `MeTPeak` can be installed as:
   
 ```
 library("devtools")
+source("https://bioconductor.org/biocLite.R")
 install_github("compgenomics/MeTPeak")
 ```
 
