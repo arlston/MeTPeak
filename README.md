@@ -21,7 +21,7 @@ R package `devtools` is required for metpeak to be installed from GitHub.
 ```
 install.packages("devtools")
 ```
-At last, `metpeak` can be installed as:
+At last, `MeTPeak` can be installed as:
   
   ```
 library("devtools")
