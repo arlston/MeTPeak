@@ -12,7 +12,7 @@ The package is developed for the finding the location of m6A sites in MeRIP-seq 
 
 License: GPL-2
 
-Depends: Rsamtools, GenomicFeatures (>= 1.0.0), rtracklayer
+Depends: Rsamtools, GenomicFeatures (>= 1.0.0), rtracklayer, BH, RcppArmadillo, Rcpp
 
 
 ### Installation
