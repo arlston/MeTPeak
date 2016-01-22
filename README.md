@@ -21,7 +21,7 @@ R package `devtools` is required for metpeak to be installed from GitHub.
 ```
 install.packages("devtools")
 ```
-Some of the MeTPeak dependent packages have to be installed from BiocLite,
+Some of MeTPeak dependent packages have to be installed from BiocLite,
 At last, `MeTPeak` can be installed as:
   
 ```
