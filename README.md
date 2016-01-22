@@ -42,8 +42,6 @@ ip3 <- system.file('extdata','IP3.bam',package='MeT')
 input1 <- system.file('extdata','Input1.bam',package='metpeak')
 input2 <- system.file('extdata','Input2.bam',package='metpeak')
 input3 <- system.file('extdata','Input3.bam',package='metpeak')
-treated_ip <- system.file('extdata','treated_IP1.bam',package='metpeak')
-treated_input <- system.file('extdata','treated_Input1.bam',package='metpeak')
 
 IP_BAM <- c(ip1,ip2,ip3)
 INPUT_BAM <- c(input1,input2,input3)
